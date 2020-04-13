@@ -1,4 +1,4 @@
-## Acesse os desafios pelo links abaixo
+### Acesse os desafios pelos links abaixo
 
 1. [Manipulação de strings](https://github.com/netstudenton/desafios/tree/master/strings)
 
