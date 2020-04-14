@@ -15,6 +15,7 @@ Na pasta raiz do projeto `/strings` execute o seguinte comando:
 `java -jar formatter`
    
 **Um parâmetros**
+O arquivo deve conter o texto a ser formatado.
 
 `java -jar formatter nome_arquivo`
   
