@@ -9,7 +9,7 @@ Na pasta raiz do projeto `/crawler` execute o seguinte comando:
 ### Como executar ?
 
    
-Para obter a lista de threads bombando basta chamar o jar file 
+Para obter a lista de threads bombando basta chamar o jar file como ilustrado abaixo
    
 `java -jar crawler askreddit;politics;facepalm`
    
