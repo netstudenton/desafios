@@ -1,5 +1,5 @@
 ### Requisitos
-- Java JDK8
+- Java JDK8+
 - Maven 3
 
 ### Como instalar ?
