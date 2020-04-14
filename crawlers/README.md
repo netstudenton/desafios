@@ -1,11 +1,11 @@
 ### Requisitos
 - Java JDK8
 - Maven 3
-
+------------
 ### Como instalar ?
 Na pasta raiz do projeto `/crawler` execute o seguinte comando:
 > mvn clean install
-
+------------
 ### Como executar ?
 
    
