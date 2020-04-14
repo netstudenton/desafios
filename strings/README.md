@@ -18,7 +18,7 @@ Na pasta raiz do projeto `/strings` execute o seguinte comando:
    
 ------------
 
-**Um parâmetros**
+**Um parâmetro**
 
 Onde `nome_arquivo` é o direitório do arquivo com o texto a ser formatado.
 
