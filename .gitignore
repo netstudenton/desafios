@@ -18,7 +18,8 @@
 *.zip
 *.tar.gz
 *.rar
-target/
+
+*/target/*
 
 # CMake
 cmake-build-*/
@@ -27,8 +28,8 @@ cmake-build-*/
 *.iws
 
 # IntelliJ
-out/
-.idea/
+.idea/*
+.idea
 
 # mpeltonen/sbt-idea plugin
 .idea_modules/
