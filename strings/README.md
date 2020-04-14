@@ -14,7 +14,7 @@ Na pasta raiz do projeto `/strings` execute o seguinte comando:
    
 `java -jar formatter`
    
-
+------------
 
 **Um parâmetros**
 
@@ -22,13 +22,13 @@ Onde `nome_arquivo` é o direitório do arquivo com o texto a ser formatado.
 
 `java -jar formatter nome_arquivo`
   
-
+------------
 
 **Dois parâmetros**
 
 `java -jar formatter nome_arquivo limit`
 
-
+------------
 
 **Três parâmetros**
 
